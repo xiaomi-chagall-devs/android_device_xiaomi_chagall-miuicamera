@@ -1,6 +1,6 @@
-# Unpinned blobs from missi-user 16 BP2A.250605.031.A3 OS3.0.307.0.WPJMIXM release-keys
+# Unpinned blobs from missi-user 16 BP2A.250605.031.A3 OS3.0.307.0.WPTMIXM release-keys
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture|b5bef03377eac58836f2401ed5c943a2fbb1d975
+product/priv-app/MiuiCamera/MiuiCamera.apk:system_ext/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture|7c81a47a4db05ec37ef42363d77c78158cf1f951
 system_ext/lib64/libcamera_algoup_jni.xiaomi.so
 system_ext/lib64/libcamera_mianode_jni.xiaomi.so
 system_ext/lib64/libcamera_ispinterface_jni.xiaomi.so

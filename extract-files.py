@@ -18,8 +18,8 @@ from extract_utils.main import (
 )
 
 namespace_imports = [
-    'device/xiaomi/klee-miuicamera',
-    'vendor/xiaomi/klee'
+    'device/xiaomi/chagall-miuicamera',
+    'vendor/xiaomi/chagall'
 ]
 
 def lib_fixup_system_ext_suffix(lib: str, partition: str, *args, **kwargs):
@@ -50,7 +50,7 @@ blob_fixups: blob_fixups_user_type = {
 }  # fmt: skip
 
 module = ExtractUtilsModule(
-    'klee-miuicamera',
+    'chagall-miuicamera',
     'xiaomi',
     blob_fixups=blob_fixups,
     lib_fixups=lib_fixups,

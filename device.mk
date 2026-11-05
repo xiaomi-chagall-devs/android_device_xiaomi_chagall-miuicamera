@@ -25,4 +25,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit from the proprietary version
-$(call inherit-product, vendor/xiaomi/klee-miuicamera/klee-miuicamera-vendor.mk)
+$(call inherit-product, vendor/xiaomi/chagall-miuicamera/chagall-miuicamera-vendor.mk)
